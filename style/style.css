@@ -1,0 +1,28 @@
+form{
+    display: block;
+
+}
+.head{
+    border: 10px solid #1679AB;
+    padding:20px;
+    bottom: 0%;
+    margin: 230px 600px 0px 600px;
+}
+body{
+    background-color: antiquewhite;
+}
+.b1{
+    width: 260px;
+    height: 30px;
+    background-color: #088395;
+}
+input{
+    width: 250px;
+    height: 25px;
+}
+input:focus{
+    background-color: #FFB1B1;
+}
+.b1:hover{
+    background-color: #1679AB;
+}
